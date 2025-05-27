@@ -1,1 +1,1 @@
-# Super_store_dashboard
+Political dashboard
